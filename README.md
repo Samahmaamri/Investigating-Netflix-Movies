@@ -20,7 +20,7 @@ Perform exploratory data analysis on the netflix_data.csv data to understand mor
  <p>
   
  
-   <h2>Project tasks:</h2>
+   <h2>Project tasks: 👩‍💻</h2>
      In these projects, I'll use the skills I've acquired in Introduction to Python and Intermediate Python to tackle a real-world data science problem. Through this, I'll practice key data science skills like exploratory data analysis, including tasks such as manipulating raw data and generating insightful plots with tools like pandas and matplotlib
 
 <h3>Steps to complete</h3>
